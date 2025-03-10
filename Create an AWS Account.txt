@@ -1,0 +1,22 @@
+Step 1: Create an AWS Account
+Go to AWS Signup Page:
+
+Visit AWS Official Website and click "Create an AWS Account".
+Enter Account Details:
+
+Provide an email address, create an AWS account name, and set up a password.
+Choose Account Type:
+
+Select Personal (for learning) or Business (for company-related work).
+Enter Payment Information:
+
+AWS requires a credit/debit card for identity verification. Free-tier usage is available.
+Verify Your Identity:
+
+Enter the OTP (One-Time Password) sent to your phone or email.
+Choose a Support Plan:
+
+Select the Free-tier Basic Plan (avoid paid plans if you’re just testing).
+Log in to AWS Console:
+
+Use the root user email and password to access AWS. 

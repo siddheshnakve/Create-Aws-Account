@@ -1,4 +1,4 @@
-Step 1: Create an AWS Account
+Create an AWS Account
 Go to AWS Signup Page:
 
 Visit AWS Official Website and click "Create an AWS Account".
